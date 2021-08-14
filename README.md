@@ -6,14 +6,14 @@
 
 <p align="left"> <a href="https://twitter.com/hbouzourdaz21" target="blank"><img src="https://img.shields.io/twitter/follow/hbouzourdaz21?logo=twitter&style=for-the-badge" alt="hbouzourdaz21" /></a> </p>
 
-- 🔭 I’m currently working on [School management](Soon)
+- 🔭 I’m currently working on [SchoolHb](https://github.com/hbouzourdaz/schoolhb)
 
 - 👨‍💻 All of my projects are available at [hb-portfolio.netlify.app](hb-portfolio.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hbouzourdaz21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hbouzourdaz21" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hakimbouzourdaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakimbouzourdaz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hbouzourdaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakimbouzourdaz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
