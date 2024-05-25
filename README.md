@@ -1,27 +1,34 @@
-<h3 align="center">A passionate frontend developer from Algeria</h3>
+<img align="left" width="150" height="150" alt="Hakim Bouzourdaz" src="https://hbouzourdaz.netlify.app/assets/images/avatar.png"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hbouzourdaz&label=Profile%20views&color=0e75b6&style=flat" alt="hbouzourdaz" /> </p>
+## I'm [Hakim Bouzourdaz][homepage]
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hbouzourdaz" alt="hbouzourdaz" /></a> </p>
+A Front-End developer from [Beni Djemati][about-beni-djemati]. I love web design applications & discussing new product ideas. Reach out to me on [WhatsApp][whatsapp] if you'd like to talk✌️
 
-<p align="left"> <a href="https://twitter.com/hbouzourdaz21" target="blank"><img src="https://img.shields.io/twitter/follow/hbouzourdaz21?logo=twitter&style=for-the-badge" alt="hbouzourdaz21" /></a> </p>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook] [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)][whatsapp] [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)][twitter] [![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][mail]
 
-- 🔭 I’m currently working on [SchoolHb](https://github.com/hbouzourdaz/schoolhb)
+<details>
+  <summary><b>Skills</b></summary>
 
-- 👨‍💻 All of my projects are available at [hb-portfolio.netlify.app](https://hb-portfolio.netlify.app)
+  [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) [![Laravel](https://img.shields.io/badge/Laravel-ffffff?style=for-the-badge&logo=laravel&logoColor=red)](https://laravel.com/) [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/) [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/) [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hbouzourdaz21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hbouzourdaz21" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hbouzourdaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakimbouzourdaz" height="30" width="40" /></a>
-</p>
+</details>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<details>
+  <summary><b>OS & Tools</b></summary>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbouzourdaz&show_icons=true&locale=en&layout=compact" alt="hbouzourdaz" /></p>
+  [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hbouzourdaz&show_icons=true&locale=en" alt="hbouzourdaz" /></p>
+</details>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hbouzourdaz&" alt="hbouzourdaz" /></p>
+<details>
+  <summary><b>Stats</b></summary>
 
+  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=hbouzourdaz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/hbouzourdaz)
+</details>
+
+[homepage]: https://github.com/hbouzourdaz
+[facebook]: https://www.facebook.com/h.bzr.21
+[whatsapp]: https://wa.me/0549523594
+[twitter]: https://twitter.com/hbouzourdaz21
+[mail]: mailto:hbouzourdaz@gmail.com
+[about-beni-djemati]: https://www.google.com/search?q=beni.djemati
