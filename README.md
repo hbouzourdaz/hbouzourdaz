@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" alt="Hakim Bouzourdaz" src="https://hbouzourdaz.netlify.app/assets/images/avatar.png"/>
+<img align="left" width="150" height="150" alt="Hakim Bouzourdaz" src=""/>
 
 ## I'm [Hakim Bouzourdaz][homepage]
 
