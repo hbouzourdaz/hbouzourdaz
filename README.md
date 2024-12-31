@@ -5,7 +5,7 @@ I'm [Hakim Bouzourdaz][homepage], a Front-End Developer from [Beni Djemati][abou
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook] [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)][whatsapp] [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)][twitter] [![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][mail]
 
 ## 🚀 Featured Projects
-- [SchoolHb](https://github.com/hbouzourdaz/schoolhb): A brief description.
+- [SchoolHb](https://github.com/hbouzourdaz/schoolhb): Courses Platform
 
 ## 💻 Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
