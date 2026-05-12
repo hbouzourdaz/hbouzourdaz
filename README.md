@@ -2,20 +2,25 @@
 
 ### 🚀 Developer | AI Builder | Educator | EdTech Innovator
 
-I build practical digital products at the intersection of **technology, artificial intelligence, and education**.
+I build practical digital products that combine **technology, AI, and education** to solve real-world problems.
 
-With a background in **Physical Sciences education** and software development, I create solutions that solve real-world problems — from AI-powered tools and automation systems to educational platforms and modern web applications.
+With a background in **Physical Sciences education** and software development, I focus on creating useful tools, scalable web applications, and automation systems with tangible impact.
 
 🌍 **Portfolio:** https://hbouzourdaz.space/
 
 ---
 
-## 💡 What I Build
-- 🤖 AI-powered applications & automation tools
-- 🌐 Modern web platforms & SaaS products
-- 📚 Educational systems, exam generators & teacher tools
-- ⚡ Productivity software & digital utilities
-- 🧠 Smart digital solutions with real impact
+## 💡 Featured Projects
+
+### 📚 ExamDZ
+An educational platform designed to help students and teachers access exams and academic resources.
+
+🔗 https://exam-dz.vercel.app/
+
+### 🏢 HajzDZ
+A digital platform focused on simplifying booking and service access experiences.
+
+🔗 https://hajzdz.vercel.app/
 
 ---
 
@@ -28,23 +33,30 @@ HTML • CSS • JavaScript • Tailwind CSS • Next.js
 PHP • Laravel • MySQL
 
 **Programming & Tools**  
-Python • Git • REST APIs • Automation • AI Integrations
+Python • Git • REST APIs • AI Integrations • Automation
+
+---
+
+## 🚀 What I Build
+- AI-powered applications
+- Educational platforms & teacher tools
+- SaaS products & modern web apps
+- Automation systems
+- Productivity tools
+- Digital products solving real problems
 
 ---
 
 ## 📈 Current Focus
-- Building scalable AI-powered products
-- Developing innovative EdTech platforms
-- Creating automation tools that save time
-- Turning ideas into impactful digital products
+Building scalable AI-powered products, EdTech platforms, and impactful digital solutions.
 
 ---
 
 ## 📫 Connect
 🌐 Website: https://hbouzourdaz.space/  
 📘 Facebook: https://facebook.com/hbouzourdaz97  
-🐦 X (Twitter): https://twitter.com/hbouzourdaz21  
-📧 Email: hbouzourdaz@gmail.com
+🐦 X: https://twitter.com/hbouzourdaz21  
+📧 Email: hbouzourdaz@gmail.com  
 ---
 
-> *Building technology that solves real problems.*
+> *Building useful technology, not just writing code.*
