@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hakim Bouzourdaz
+# 👋 Hi, I'm Hakim BOUZOURDAZ
 
 ### 🚀 Developer | AI Builder | Educator | EdTech Innovator
 
